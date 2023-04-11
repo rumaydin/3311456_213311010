@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-
 class ElementModel {
   String ElementAdi;
   String KullanildigiYerler;
@@ -137,3 +136,4 @@ List<ElementModel> ElementListesi = [
       resimUrl: 'assets/images/20.jpeg',
       ElementNo: 20),
 ];
+//
